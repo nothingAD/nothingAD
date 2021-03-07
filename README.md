@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on lotsofstuff.de and finding my place in the gamedevworld
+🔭 I’m currently working on [lotsofstuff.de](https://lotsofstuff.de)
 
 <!--
 **nothingAD/nothingAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
