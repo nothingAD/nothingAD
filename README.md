@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [lotsofstuff.de](https://lotsofstuff.de)
+🔭 My indie game studio [lotsofstuff.de](https://lotsofstuff.de)
+🎮 My games on itch.io [LotsOfStuff Itch.io Page](https://lots-of-stuff.itch.io/)
+
 
 <!--
 **nothingAD/nothingAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
