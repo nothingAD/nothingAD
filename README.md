@@ -1,7 +1,8 @@
 ### Hi there 👋
 
--🔭 My indie game studio [lotsofstuff.de](https://lotsofstuff.de)
--🎮 My games on itch.io [LotsOfStuff Itch.io Page](https://lots-of-stuff.itch.io/)
+🔭 My indie game studio [lotsofstuff.de](https://lotsofstuff.de)
+
+🎮 My games on itch.io [LotsOfStuff Itch.io Page](https://lots-of-stuff.itch.io/)
 
 
 <!--
